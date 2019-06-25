@@ -1,0 +1,53 @@
+.header{
+    background-color: #000a52;
+    border-bottom:5px solid #ffe400;
+    
+
+}
+
+
+.logo {
+    padding: 26px 0;
+}
+.menu {
+    padding: 27px 0;
+}
+
+.menu ul {
+margin: 0px;
+padding: 0px;
+list-style: none;
+}
+
+.menu ul li {
+margin: 0px;
+padding: 0px;
+display: inline-block;
+}
+
+.menu ul li a {
+display: block;
+text-decoration: none;
+font-size: 17.28;
+font-family: 'Times New Roman', Times, serif;
+text-transform: capitalize;
+padding: 5px;
+}
+.slider-heading{
+    background:#004f85;
+    position: absolute;
+    top: 0px;
+    width: 350px;
+    text-align: left;
+}
+
+
+.slider-heading h1 {
+    font-size: 50px;
+}
+
+.slider-heading p {
+    font-size: 12px;
+    margin-top: 41px;
+    text-align: left;
+}
